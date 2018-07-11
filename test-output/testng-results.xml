@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111869" started-at="2018-07-11T00:54:42Z" finished-at="2018-07-11T00:56:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111869" started-at="2018-07-11T00:54:42Z" finished-at="2018-07-11T00:56:34Z">
+      <class name="herokuapp.backbase.tests.HeroKuappTestCases">
+        <test-method status="PASS" signature="mainSetup()[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="mainSetup" is-config="true" duration-ms="1954" started-at="2018-07-11T01:54:40Z" finished-at="2018-07-11T01:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainSetup -->
+        <test-method status="PASS" signature="instantiaze(org.testng.ITestContext)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="instantiaze" is-config="true" duration-ms="9" started-at="2018-07-11T01:54:42Z" finished-at="2018-07-11T01:54:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiaze -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="setup" is-config="true" duration-ms="32948" started-at="2018-07-11T01:54:42Z" finished-at="2018-07-11T01:55:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifyNewComputerAddedSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyNewComputerAddedSuccessfully()[pri:1, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="verifyNewComputerAddedSuccessfully" duration-ms="4272" started-at="2018-07-11T01:55:15Z" finished-at="2018-07-11T01:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewComputerAddedSuccessfully -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="tearDown" is-config="true" duration-ms="1176" started-at="2018-07-11T01:55:19Z" finished-at="2018-07-11T01:55:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifyNewComputerAddedSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="setup" is-config="true" duration-ms="12975" started-at="2018-07-11T01:55:20Z" finished-at="2018-07-11T01:55:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifySearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifySearch()[pri:2, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="verifySearch" duration-ms="1147" started-at="2018-07-11T01:55:33Z" finished-at="2018-07-11T01:55:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="tearDown" is-config="true" duration-ms="447" started-at="2018-07-11T01:55:34Z" finished-at="2018-07-11T01:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifySearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="setup" is-config="true" duration-ms="10294" started-at="2018-07-11T01:55:35Z" finished-at="2018-07-11T01:55:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifyComputerDetailsUpdatedSuccessFully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyComputerDetailsUpdatedSuccessFully()[pri:3, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="verifyComputerDetailsUpdatedSuccessFully" duration-ms="19255" started-at="2018-07-11T01:55:45Z" finished-at="2018-07-11T01:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyComputerDetailsUpdatedSuccessFully -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="tearDown" is-config="true" duration-ms="799" started-at="2018-07-11T01:56:04Z" finished-at="2018-07-11T01:56:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifyComputerDetailsUpdatedSuccessFully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="setup" is-config="true" duration-ms="11108" started-at="2018-07-11T01:56:05Z" finished-at="2018-07-11T01:56:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifyComputerDeletedSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyComputerDeletedSuccessfully()[pri:4, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="verifyComputerDeletedSuccessfully" duration-ms="16816" started-at="2018-07-11T01:56:16Z" finished-at="2018-07-11T01:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyComputerDeletedSuccessfully -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:herokuapp.backbase.tests.HeroKuappTestCases@47c62251]" name="tearDown" is-config="true" duration-ms="582" started-at="2018-07-11T01:56:33Z" finished-at="2018-07-11T01:56:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@c055c54]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void herokuapp.backbase.tests.HeroKuappTestCases.verifyComputerDeletedSuccessfully()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- herokuapp.backbase.tests.HeroKuappTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
